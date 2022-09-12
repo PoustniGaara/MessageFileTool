@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\vikto\\Desktop\\Messages \r\nsort\r\n"
+    }
+  }
+}

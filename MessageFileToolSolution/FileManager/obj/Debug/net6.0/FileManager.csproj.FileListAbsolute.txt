@@ -1,0 +1,12 @@
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\bin\Debug\net6.0\FileManager.deps.json
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\bin\Debug\net6.0\FileManager.dll
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\bin\Debug\net6.0\FileManager.pdb
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\FileManager.csproj.AssemblyReference.cache
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\FileManager.AssemblyInfoInputs.cache
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\FileManager.AssemblyInfo.cs
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\FileManager.dll
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\refint\FileManager.dll
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\FileManager.pdb
+C:\Users\vikto\Desktop\UCN\programming projects\MessageFIleToolSolution\FileManager\obj\Debug\net6.0\ref\FileManager.dll
